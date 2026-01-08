@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[kathyszettelkasten]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>kathyszettelkasten</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 Jan 2026 23:46:16 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 Jan 2026 23:46:14 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[
+点击左侧边栏左上角的 太阳/月亮 按钮，可以切换页面的亮暗模式
+点击左侧边栏右上角和右侧边栏左上角的 隐藏/显示边栏 按钮，可以收起/展开左右边栏 将鼠标悬停在两侧边栏的边线上，向左或向右拖动可以调整边栏宽度
+调整边栏宽度之后，双击两侧边栏的边线，可以恢复默认栏宽 在 太阳/月亮 按钮下方的 搜索栏 中输入关键词，可以进行全文搜索
+经测试，该功能对中文的支持不够好，不建议使用
+搜索栏 下方是一个可交互的 关系图谱，点击图谱中的节点会直接跳转到对应的文件 点击 关系图谱 右上角的 箭头，可以放大展示整个图谱 关系图谱 功能可能在某些电脑上无法正常使用（不显示节点）
+关系图谱 下方是 文件导航 ，
+右侧边栏是文件的 大纲目录 ，可以点击相应的标题来跳转到相应的内容 点击标题前的 箭头，可以展开/折叠下属标题 ]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Thu, 08 Jan 2026 23:44:33 GMT</pubDate></item><item><title><![CDATA[✧ 虚寒或过敏性鼻炎治疗]]></title><description><![CDATA[
+苍耳子散加减合方（急性鼻炎）
+麻黄附子细辛汤（外感引起的急性鼻炎，力度较猛不一定适合所有人）
+桂枝汤（过敏性鼻炎） 辛芩颗粒
+六君子丸：治疗脾虚
+桂附地黄丸：治疗肾虚
+补中益气丸：治疗脾肺两虚
+附子理中丸：治疗脾肾阳虚 迎香穴
+合谷穴
+大椎穴
+肺俞穴
+中府云门
+尺泽穴 每天睡前做三十个深蹲，可缓解鼻塞
+相关资料 Contents ]]></description><link>1-原料仓库/1a-阅读笔记/✧-虚寒或过敏性鼻炎治疗.html</link><guid isPermaLink="false">1-原料仓库/1A-阅读笔记/✧ 虚寒或过敏性鼻炎治疗.md</guid><pubDate>Mon, 05 Jan 2026 13:29:44 GMT</pubDate></item><item><title><![CDATA[✧ 鼻炎的本质是肺寒气重]]></title><description><![CDATA[
+中医的观念中从来没有过敏，只有正气跟邪气的对抗 过敏的本质是正气（肺气、卫气）虚到一定程度，挡不住外界任何微弱的风、寒、湿 肺开窍于鼻，肺气充足的人鼻子通畅、呼吸顺、嗅觉好，代表肺气能够顺利宣发出来
+风寒束肺：鼻炎的人肺寒，肺中阳气不足，一点冷空气都能长驱直入，影响肺气正常的宣发和肃降功能 宣发：把好的东西往上、往外送
+肃降：把浊的东西往下、往内收 鼻炎症状成因 清涕：阳气被寒气阻挡，鼻子得不到温暖，津液凝结
+鼻塞：寒邪盘踞在鼻窍，寒气凝滞导致气血不通，呼吸困难 调理分为三个步骤：通、补、固 类固醇鼻喷剂：毫无用处
+通：宣通鼻窍，解决燃眉之急——治标 方剂：苍耳子散【宣肺窍、散风寒】 苍耳子：性温散寒气，钻入细小孔窍
+辛夷：辛散温通，打开鼻窍
+白芷：香味向上，专入阳明经，药力直冲鼻腔和前额周围，赶走风邪和湿气
+薄荷：疏散风热、清利头目，散开郁住的气机，让整个头面部清爽起来 寒邪郁久后会让局部气机不通畅，化为郁热，鼻子感觉涨热 时效：半天到一天鼻子就通了，鼻水也会停止 补：温补阳气，改善脾气虚寒、脾阳不足——治本 方剂：附子理中汤/附子理中丸【培土生金：补肺必先温脾。脾胃阳气足、运化功能好，才能不断将食物转化为精微物质向上输送给肺，肺气得滋养才会充足】【脾为生痰之源、肺为贮痰之器。鼻涕和痰的源头都在脾胃，脾胃功能差，则水湿难以得到运化，累积在身体中变成肺中痰湿】【此方不仅能够温暖脾胃中枢，还能借此振奋全身阳气，在治疗鼻炎之外改善人体的整体状态】 附子：大辛大热，纯阳之性，回阳救逆（类似太阳，普照全身）
+干姜：温中散寒，逐肺中寒气（类似暖炉，加强中焦）
+人参：大补元气/宗气，提升人体能量水平
+白术：健脾燥湿，增强运化功能，排除多余湿气
+炙甘草：调和诸药，补中益气，让整个方子的药性变得温和持久 固：益气固表，巩固疗效防止复发——症状稳定后收尾 方剂：玉屏风散【抵挡外邪，益气、固表、止汗】 黄芪：甘温，补（卫）气固表（卫气足则毛孔开合正常：打开时风邪进不来；关闭时汗水正常排泄）
+白术：健脾燥湿，帮助黄芪补气（气足可以行水）
+防风：体轻性浮，走表祛邪，遇到风邪侵犯主动出击 相关资料 Contents ]]></description><link>1-原料仓库/1a-阅读笔记/✧-鼻炎的本质是肺寒气重.html</link><guid isPermaLink="false">1-原料仓库/1A-阅读笔记/✧ 鼻炎的本质是肺寒气重.md</guid><pubDate>Mon, 05 Jan 2026 13:18:25 GMT</pubDate></item><item><title><![CDATA[✧ 治疗鼻炎中医泡水即可]]></title><description><![CDATA[
+热性鼻炎：黄色、浓稠状鼻涕
+虚寒鼻炎：白色、清水状鼻涕 一般秋冬或春天花粉季较为严重 人体元气（阳气）下降、肺气不足、鼻腔缺乏气血——元气充足时，不管外界环境发生什么变化，都有足够的能量防御 男性：纵欲过度（阳痿、早泄、拉肚子、手脚冰凉）
+女性：宫寒痛经（经期血丝、血块较多）
+其他：喜食水果、冷饮 苍耳子、辛夷花、白芷、桔梗…… 辛香发散/走窜，能够打通鼻腔 玉屏风颗粒/胶囊：在人体表面加上屏风，阻挡外界的风寒 防风：将鼻腔中的风寒之气推出去
+黄芪：补充鼻腔的气血，占据此前风寒所在的位置
+白术：提升肠胃消化吸收功能、促进气血生成和源源不断地补充鼻腔 中成药的药效有限，使用玉屏风颗粒治疗鼻炎以月为疗程计量单位
+生脉饮：补充肺气，改善肺部功能
+人参片：泡水，用于补充元气【简便易行】
+由太阴（最里面的肠胃）底面里开太阳（最表面的鼻腔）? <a href=".?query=tag:projects/探究/核实" class="tag colored-tag-projects/探究/核实 is-unresolved" target="_self" rel="noopener nofollow" data-href="#projects/探究/核实">#projects/探究/核实</a> <a href=".?query=tag:todo/某天" class="tag colored-tag-todo/某天 is-unresolved" target="_self" rel="noopener nofollow" data-href="#todo/某天">#todo/某天</a> 相关资料 Contents ]]></description><link>1-原料仓库/1a-阅读笔记/✧-治疗鼻炎中医泡水即可.html</link><guid isPermaLink="false">1-原料仓库/1A-阅读笔记/✧ 治疗鼻炎中医泡水即可.md</guid><pubDate>Mon, 05 Jan 2026 13:16:34 GMT</pubDate></item></channel></rss>
